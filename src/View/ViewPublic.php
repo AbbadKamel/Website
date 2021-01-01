@@ -81,7 +81,7 @@ class ViewPublic {
 
 	public function Aboutpage() {
 		$this->content .= "<div class='About'><h2> Numeros des membres et Groupe:  </h2>
-        <p> <b> 21812559, <b> 21911196  et   22014452  Groupe Numeros : 45  </b></p>
+        <p> <b> 21911536, <b> 21911132  et   22014452  Groupe Numeros : 45  </b></p>
         <h2> Quelques points sur notre MINI SITE </h2>
 
             <p> <ul> <li>Pour la modelisation de notre projet on a suivi ce qu on a vu dans les TPs, au CM et principalement le modele MVCR qui nous a permis de faire evoluer le code et la conception sans faire d'interdependances entre les classes. </li>
